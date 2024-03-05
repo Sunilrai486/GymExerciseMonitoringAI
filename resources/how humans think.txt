@@ -1,0 +1,14 @@
+Brainstorm how human mind detects if a person is doing any exercise properly.
+
+	Learns diff exercises from instructor/videos/images/own exp/anything.
+		From videos:
+			Sees what's going on in the video.
+			Tries to replicate it in details.
+			It will be perfect with time when he/she gets feedback after doing it.
+			
+	Tries to identify/figure out what the new learner is doing.
+		Figures out what he is trying to do.
+		Observes if it's like the learned or not.
+		If it's like learned then it's good.
+		Otherwise, provides feedback.
+

@@ -1,4 +1,4 @@
-GymExerciseMonitoringAI: An on-going project to critique an exercise by using an ensemble of ML/Vision models. Mainly focuses on orientations, angle of joints, based on the human pose estimate (33 Joints)
+gym-motion-pose-ai: An on-going project to critique an exercise by using an ensemble of ML/Vision models. Mainly focuses on orientations, angle of joints, based on the human pose estimate (33 Joints)
 
 ## Key Milestones
 1. Repetition detection model
